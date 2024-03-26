@@ -4,7 +4,7 @@
 
 The following code is focused on data analysis with Python's Pandas library which involves examining, cleaning, processing, and extracting useful information from large datasets.  The scope of this code is to identify from a given dataset the top customers, popular product categories, and calculating profits through data exploration, transformation, and analysis.
 The code will require functions and import of a csv file. 
-This code is available at Github under (https://github.com/algjor/athletic_sales_analysis).
+This code is available at Github under (git@github.com:algjor/pandas-challenge-1.git).
 
 ## Description of Code:
 This code was completed using the following steps.
